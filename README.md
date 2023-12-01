@@ -3,6 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-berenger-618777271/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3BWpEitlC9xN5KQHZtGY_w)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thegreatberenger/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UPRKMzKQ)
 
 ![Lucas Berenger GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasberenger&show_icons=true&theme=cobalt)
 
