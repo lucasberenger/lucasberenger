@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Berenger
+### Para ser grande, sê inteiro.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-berenger-618777271/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3BWpEitlC9xN5KQHZtGY_w)
