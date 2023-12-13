@@ -21,7 +21,7 @@ My name is Lucas Berenger. <br/>
 </div>
 
 
-### Connect with me:
+### Social:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-berenger-618777271/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegreatberenger@gmail.com) 
