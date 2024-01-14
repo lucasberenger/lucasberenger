@@ -4,8 +4,6 @@ My name is Lucas Berenger. <br/>
 
 📖 I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Full Stack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content.
 
-📚 Beyond coding, I also have an interest in literature.
-
 
 ### Technologies I`m learning:
 
