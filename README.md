@@ -2,7 +2,7 @@
 👋 Hello! Welcome to my profile! <br/>
 My name is Lucas Berenger. <br/>
 
-📖 I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Full Stack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content.
+📖 I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Fullstack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content.
 
 
 ### Technologies I`m learning:
@@ -14,6 +14,9 @@ My name is Lucas Berenger. <br/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
 </div>
