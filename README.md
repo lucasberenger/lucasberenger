@@ -1,7 +1,7 @@
 ### 🕴🏻 ...
 
 I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Fullstack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content.
-
+---
 
 ### Technologies and Tools that I am learning: 
 
@@ -15,7 +15,7 @@ I've been studying coding for a short time, but my interest has been growing ste
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-### Social:
+### Connect with me:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-berenger/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thegreatberenger@gmail.com) 
