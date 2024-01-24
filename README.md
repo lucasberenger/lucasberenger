@@ -1,6 +1,5 @@
-##Hey 👋
-
-I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Fullstack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content.
+## Hey 👋
+I've been studying coding for a short time, but my interest has been growing steadily. Despite the difficulties I've faced during my studies, I'm putting in effort every day to improve myself and become a Fullstack developer. As I continue to learn, I plan to contribute to the community by creating tutorials, lessons, and informative content. 
 ---
 
 ### Technologies and Tools that I am learning: 
