@@ -1,5 +1,5 @@
 ## Hello! 👋
-💻 Student of Systems Analysis and Development aiming to become a full-stack programmer.
+💻 Student of Systems Analysis and Fulltack Developer. 
 ---
 
 ### Technologies and Tools:  
