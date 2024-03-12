@@ -6,7 +6,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,python,django,git" />
+    <img src="https://skillicons.dev/icons?i=rails,react,python,django,flask,git" />
   </a>
 </p>
 <br />
