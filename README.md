@@ -1,5 +1,5 @@
 ## Hey! 👋
-💻 Student of Systems Analysis and Fullstack Developer. 
+💻 Fullstack Developer
 ---
 
 ### Technologies and Tools:  
