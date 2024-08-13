@@ -4,7 +4,7 @@ I'm a fullstack developer, and since 2023, I've been studying coding and craftin
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,vue,python,django,docker,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,typescript,react,nodejs,expressjs,python,django,docker,postgres" />
   </a>
 </p>
 <br />
