@@ -1,13 +1,6 @@
 ## Hello! I am Lucas Berenger 👋
-I'm a fullstack developer, and since 2023, I've been studying coding and crafting web applications!
-### Technologies and Tools:  
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,typescript,nodejs,expressjs,python,django,docker,postgres" />
-  </a>
-</p>
-<br />
+As a Software Developer, I can create and maintain scalable and robust applications, always following the best practices of development. 
+I really enjoy the Infrastructure/DevOps area, so all my efforts now are heading in this direction! 
 
 ## Connect with me:
 Feel free to connect with me on LinkedIn!
