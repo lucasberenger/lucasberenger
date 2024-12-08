@@ -1,16 +1,21 @@
-- 📝 I regularly write articles on [coming soon...](coming soon...)
-
-- 📄 Know about my experiences [coming soon...](coming soon...)
-
+# Software Developer & DevOps
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasberenger&show_icons=true&locale=en&layout=compact" alt="lucasberenger" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasberenger&show_icons=true&locale=en" alt="lucasberenger" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasberenger&" alt="lucasberenger" /></p>
-
-<h3 align="left"> - 📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-berenger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-berenger" height="30" width="40" /></a>
-</p>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img align="center" alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img align="center" alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+    <img align="center" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img align="center" alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    
+    
+</div><br/>
 
