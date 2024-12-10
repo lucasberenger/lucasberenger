@@ -1,5 +1,4 @@
-# Software Developer & DevOps
-
+# Welcome!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasberenger&show_icons=true&locale=en&layout=compact" alt="lucasberenger" /></p>
 
 <div style="display: inline_block"><br/>
@@ -15,7 +14,6 @@
     <img align="center" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img align="center" alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div><br/>   
     
-    
-</div><br/>
 
