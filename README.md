@@ -1,7 +1,6 @@
 # Software Engineering, Data & AI
 Hi, there! <br><br>
-I break things and I also fix 'em. Over the past few years, I've been writing code to solve real-world problems or just to have fun and getting pissed off as well. <br>
-I do enjoy writing articles and creating tutorials to share knowledge. 
+I break things and I also fix 'em. Over the past few years, I've been writing code to solve real-world problems or just to have fun and getting pissed off as well.
 <br>
 <br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZyYXBveXYydzhtc2U4bWJucGRybWZodnV1Y2t3YTVzZzZiazc3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQO3dG0scKkkRAY5GN/giphy.gif"
